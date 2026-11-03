@@ -111,6 +111,7 @@ You can also build it in an IDE such as Code::Blocks by creating a console proje
 ```
 sudoku.cpp    # the whole game in a single source file
 README.md
+LICENSE       # MIT License
 ```
 
 ## Credits
@@ -119,4 +120,4 @@ Made by **Jabez Martinez**.
 
 ## License
 
-Add a license of your choice here (for example MIT) by including a `LICENSE` file in the repository.
+This project is licensed under the [MIT License](LICENSE).
